@@ -24,7 +24,10 @@
     font-size: 16px;
     padding: 0 30px 0 30px;
 }
-
+.header li img {
+    color: white;
+    vertical-align: bottom;
+}
 .text__block{
     padding-top: 170px;
     text-align: center;

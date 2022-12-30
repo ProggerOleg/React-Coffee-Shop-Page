@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <div className='rectangle'>
             <ul className='header'>
-                <li>Coffee house</li>
+                <li><img src='Group.png' alt='logo'></img>Coffee house</li>
                 <li>Our coffee</li>
                 <li>For your pleasure</li>
             </ul>
